@@ -473,7 +473,8 @@ const styles = StyleSheet.create({
     standingsContainer: {
         justifyContent: 'center',
         alignItems: 'center',
-        height: deviceHeight * (5/6)
+        height: deviceHeight * (5/6),
+        textAlign: 'center'
     },
     standingsBox: {
         height: deviceHeight * (1/5),
